@@ -1,2 +1,2 @@
 # Intership-mini-project
-full stack mini project for internship
+SmartKnower Internship Full Stack Mini Project
